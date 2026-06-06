@@ -107,7 +107,8 @@ ul { list-style: none; }
     position: relative;
     background: linear-gradient(135deg, var(--brown) 0%, var(--dark) 100%);
     overflow: hidden;
-    padding-bottom: 80px;
+    padding-top: 80px;
+    padding-bottom: 120px;
 }
 .hero::before {
     content: '';
